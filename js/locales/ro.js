@@ -6,6 +6,7 @@
  *
  * @see http://github.com/kartik-v/bootstrap-fileinput
  * @author Ciprian Voicu <pictoru@autoportret.ro>
+ * @author Robert Radu <robert.radu@nvtech.ro>
  *
  * NOTE: this file must be saved in UTF-8 encoding.
  */
